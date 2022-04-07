@@ -35,6 +35,7 @@ def MostrarCantidadNumerosPrimos (cantidad = 20):
 	print(primeList)
 
 
+
 opciones = input('vuoi inserire i dati?? (s/n): ')
 
 if opciones == 's':
