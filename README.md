@@ -23,14 +23,14 @@
 
 4. Ejecute el programa en visual estudio para visualizar el codigo y comprenderlo mejor.
 5. Luego de a ver colocado el archivo en la carpeta realize la siguiente secuncia de codigo:
-  `
+  ```
   git add python/primos.py
   git commit -m "segundo commit"
   git push origin main
-  `
+  ```
   
 6. Borre de forma accidental el archivo primos.py y luego puede recuperarlo con el siguiente comando:
-  `git restore python/primos.py´
+  `git restore python/primos.py`
 
 7. Modifique el codigo y luego verifique que se subiera correctamente al github
 
