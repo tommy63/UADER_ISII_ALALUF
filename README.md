@@ -1,7 +1,7 @@
-#uader_isii_alaluf
+# uader_isii_alaluf
 
 ## Trabajo practico nº1
 
-###Alumno: Tomas Alaluf
+### Alumno: Tomas Alaluf
 
-###Profesores: Pedro Colla , Julian Escalante
+### Profesores: Pedro Colla , Julian Escalante
