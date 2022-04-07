@@ -16,7 +16,7 @@ def MostrarNumerosPrimos (total = 100):
 	print(primeList)
 
 def MostrarCantidadNumerosPrimos (cantidad = 20):
-	#-------------------------------------------------------------
+	#--------------------------------------------------------------
 	# prime number calculator: find the first n primes
 	primeList = []
 	x = 2
