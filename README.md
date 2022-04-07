@@ -44,4 +44,4 @@
 
 sitio externo (google)[https://www.google.com.ar/?gws_rd=cr&ei=qRNOUpPTD9bJ4AO-poCIAg]
 
-imagen 
+imagen ![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
